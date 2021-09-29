@@ -9,7 +9,8 @@ Catapulta formada por:
 - Catapulta_U-P_Beam_3:25min
 - Catapulta_T_Beam_2:30min
 - Catapulta_-_Tornillos_y_Muelles_7h
-    dividido entre:
+
+    -----dividido entre:
           Catapulta_-_Tornillos_5:20min
           Catapulta_-_Muelles_1:40min
 
@@ -17,7 +18,8 @@ Catapulta formada por:
 Coche Formado por:
 - Coche_-_Ruedas_3:30min
 - Coche_-_Tornillos_Ejes_Tuercas_Beams_Braces_5h
-     dividido entre:
+
+     -----dividido entre:
            Coche_-_Beams_y_Braces_2:30min
            Coche_-_Tornillos_y_Ejes_50min
            Coche_-_Tuercas_1:50min
