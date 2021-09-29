@@ -11,8 +11,7 @@ Catapulta formada por:
 - Catapulta_-_Tornillos_y_Muelles_7h
 
     -----dividido entre:
-          Catapulta_-_Tornillos_5:20min
-          Catapulta_-_Muelles_1:40min
+          Catapulta_-_Tornillos_5:20min / Catapulta_-_Muelles_1:40min
 
 
 Coche Formado por:
@@ -20,9 +19,7 @@ Coche Formado por:
 - Coche_-_Tornillos_Ejes_Tuercas_Beams_Braces_5h
 
      -----dividido entre:
-           Coche_-_Beams_y_Braces_2:30min
-           Coche_-_Tornillos_y_Ejes_50min
-           Coche_-_Tuercas_1:50min
+           Coche_-_Beams_y_Braces_2:30min / Coche_-_Tornillos_y_Ejes_50min / Coche_-_Tuercas_1:50min
 
 ![packs-catapulta](https://user-images.githubusercontent.com/79287087/135293109-d60b4d43-59d8-43bf-aebd-917799f28cdc.png)
 
