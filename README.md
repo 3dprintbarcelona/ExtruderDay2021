@@ -1,5 +1,29 @@
 # ExtruderDay2021
 
+Los siguientes packs se imprimirán durante el Extruder Day '21, para más detalles sobre el montaje del coche autopropulsado visitad https://www.stemfie.org/sps-000001.html Próximamente habrán también instrucciones para la catapulta.
+
+Catapulta formada por:
+- Catapulta_-_Arandelas_Diana_4:30h
+- Catapulta_-_Soporte_Diana_3:25min
+- Catapulta_U-G_Beam_3:40min
+- Catapulta_U-P_Beam_3:25min
+- Catapulta_T_Beam_2:30min
+- Catapulta_-_Tornillos_y_Muelles_7h
+    dividido entre:
+          Catapulta_-_Tornillos_5:20min
+          Catapulta_-_Muelles_1:40min
+
+
+Coche Formado por:
+- Coche_-_Ruedas_3:30min
+- Coche_-_Tornillos_Ejes_Tuercas_Beams_Braces_5h
+     dividido entre:
+           Coche_-_Beams_y_Braces_2:30min
+           Coche_-_Tornillos_y_Ejes_50min
+           Coche_-_Tuercas_1:50min
+
+![packs-catapulta](https://user-images.githubusercontent.com/79287087/135293109-d60b4d43-59d8-43bf-aebd-917799f28cdc.png)
+
 Catapulta_-_Arandelas_Diana_4:30h
 ![Catapulta_-_Arandelas_Diana_4:30h](https://user-images.githubusercontent.com/79287087/133203359-988693db-873d-441e-a1f7-013958e1320d.png)
 
@@ -23,6 +47,8 @@ Catapulta_U-G_Beam_3:40min
 
 Catapulta_U-P_Beam_3:25min
 ![Catapulta_U-P_Beam_3:25min](https://user-images.githubusercontent.com/79287087/133203376-3fbd1860-b037-4508-a020-c5f74df61e54.png)
+
+![packs-coche](https://user-images.githubusercontent.com/79287087/135293105-38964fd7-de9f-4a1b-9162-1743f2474bd8.png)
 
 Coche_-_Beams_y_Braces_2:30min
 ![Coche_-_Beams_y_Braces_2:30min](https://user-images.githubusercontent.com/79287087/133203377-0eed6292-043d-41e0-8344-f7ef9918abea.png)
